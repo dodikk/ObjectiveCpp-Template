@@ -1,2 +1,7 @@
 This is a copy of usual xCode templates. The only difference is that they create files with  *.mm extension instead of *.m
+
+In order to install - just copy them to "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Cocoa Touch" 
+( I suppose that xCode is installed in the default "/Developer" location ).
+
+
 License : BSD
